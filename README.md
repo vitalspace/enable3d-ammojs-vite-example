@@ -7,16 +7,22 @@ Enable3d Ammojs Vite Example
 
 ```console
 # download this repo
-npx gitget enable3d/threejs-ammojs-webpack-example enable3d-webpack
+git clone https://github.com/vitalspace/enable3d-ammojs-vite-example.git
 
 # navigate into the directory
-cd enable3d-webpack
+cd enable3d-ammojs-vite-example
 
 # install
 npm install
 
 # start
-npm start
+npm run dev
+
+# build
+npm run build
+
+# preview
+npm run view
 ```
 
 
